@@ -64,12 +64,7 @@ Combining a curated Excel dataset of Red Sox batters with **advanced stats pulle
 ![Top10 Bb K](images/top10_bb_k.png)
 
 💡 **BB/K Insight**: >0.5 is good. 1.0+ = elite discipline.
-
-### Top10 Rc
-![Top10 Rc](images/top10_rc.png)
-
-💡 **RC Insight**: Measures runs created. Higher = more valuable offensively.
-
+.
 ### Top10 Woba
 ![Top10 Woba](images/top10_woba.png)
 
@@ -80,17 +75,10 @@ Combining a curated Excel dataset of Red Sox batters with **advanced stats pulle
 
 💡 **BABIP Insight**: .300 = average. Higher = good contact or luck.
 
-### Top10 Fip
-![Top10 Fip](images/top10_fip.png)
-
-💡 **FIP Insight**: 4.00 = avg. <3.50 = very good.
-
 ### Top10 Wrc Chart
 ![Top10 Wrc Chart](images/top10_wrc_chart.png)
 
 💡 **wRC Insight**: Weighted runs created. Higher = better overall offense.
-
-
 
 ---
 
@@ -106,6 +94,11 @@ Combining a curated Excel dataset of Red Sox batters with **advanced stats pulle
 
 ## 🛠 How to Use
 
+### ▶️ Open in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpeaslee12/redsox-eda-2024/blob/main/Redsox%20Eda%20Colab.ipynb)
+
+
 1. Upload or modify `RedSox_2024_Batting_Stats.xlsx`
 2. Run the notebook in Google Colab
 3. Visuals generate automatically with insights and interactivity
@@ -114,7 +107,7 @@ Combining a curated Excel dataset of Red Sox batters with **advanced stats pulle
 
 ## 👩‍💻 Author
 
-**Katie Pleasley**  
+**Katie Peaslee**  
 Lover of baseball data, sabermetrics, and telling stories with stats ⚾️📊
 
 ---
